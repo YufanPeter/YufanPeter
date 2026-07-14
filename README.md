@@ -2,61 +2,37 @@
 
 # Hi, I'm Peter 👋
 
-### AI Application Developer · AI Agent & RAG Researcher
-
-🎓 M.S. in Electrical and Computer Engineering at UC San Diego
-
-Building reliable AI agents, multimodal RAG systems, and biomedical AI applications.
-
 </div>
 
 ---
 
 ## About Me
 
-* 🔭 Currently working on **AI Agents, Multimodal RAG, and Agent Evaluation**
-* 🧠 Interested in **Agentic Search, Self-Evolving Agents, and Biomedical AI**
-* 🌱 Exploring **Reinforcement Learning and Reliable Agent Workflows**
+A Master student in Electrical and Computer Engineering at UC San Diego. My interest lies on
+exploring **AI Agents, Self-Evolving Agents, Multimodal LLMs, and Harness Engineering**.
+
+* 🧑‍💻 I'm currently working on: **Evaluation on Biomed Agent, AI Application**
+* 🕵️ I'm currently learning: **Reinforcement Learning and Agentic AI**
 
 ---
 
 ## Languages and Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,git,github,docker,linux,vscode,fastapi&theme=light" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+       width="45" height="45" alt="Python" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg"
+       width="45" height="45" alt="PyTorch" title="PyTorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+       width="45" height="45" alt="Git" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
+       width="45" height="45" alt="Docker" title="Docker" />
+  <img src="https://cdn.simpleicons.org/huggingface"
+       width="45" height="45" alt="Hugging Face" title="Hugging Face" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+       width="45" height="45" alt="SQL" title="SQL / MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
+       width="45" height="45" alt="Linux" title="Linux" />
 </p>
-
-**AI & LLM:** LangGraph · LangChain · RAG · GraphRAG · Function Calling · MCP
-
-**Retrieval:** FAISS · BM25 · Dense Retrieval · RRF · Reranking
-
-**Development:** Python · PyTorch · FastAPI · Git · Docker · Linux
-
----
-
-## GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YufanPeter&show_icons=true&hide_border=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YufanPeter&layout=compact&hide_border=true" />
-
-</div>
-
----
-
-## Contact
-
-* GitHub: [@YufanPeter](https://github.com/YufanPeter)
-* Email: Add your email here
-* LinkedIn: Add your LinkedIn profile here
-* Personal Website: Coming soon
-
----
-
-<div align="center">
-
-### Thanks for visiting my profile!
 
 </div>
