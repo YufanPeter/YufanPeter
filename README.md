@@ -1,16 +1,22 @@
 ## Hi, I'm Peter 👋
-</div>
 
 ### About Me
 
-A Master student in Electrical and Computer Engineering at UC San Diego. My interest lies on
-exploring **AI Agents, Self-Evolving Agents, Multimodal LLMs, and Harness Engineering**.
+<img src="./ucsd.svg" height="48" alt="UC San Diego" />
+M.S. Student in Electrical and Computer Engineering @ UC San Diego
+<br><br>
+
+<img src="./Microsoft.svg" height="40" alt="Microsoft" />
+Former Apps Development Intern @ Microsoft, working on an AI-native autonomous deployment agent system
+<br><br>
+
+I’m interested in exploring AI Agents, Self-Evolving Agents, Agent Harness Engineering, and Multimodal LLMs.
 
 <ul>
-  <li>🧑‍💻 <strong>Currently working on:</strong> Biomedical Agent Evaluation and AI Applications</li>
-  <li>🕵️ <strong>Currently learning:</strong> Reinforcement Learning and Agentic AI</li>
-  <li>✉️ <strong>Email:</strong> <a href="mailto:peteryufan28@gmail.com">peteryufan28@gmail.com</a></li>
-  <li>💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/yufan-shi/">Yufan Shi</a></li>
+  <li>🧑‍💻 Currently working on: Biomedical Agent Evaluation and AI Applications</li>
+  <li>🕵️ Currently learning: Reinforcement Learning and Agentic AI</li>
+  <li>✉️ Email: <a href="mailto:peteryufan28@gmail.com">peteryufan28@gmail.com</a></li>
+  <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/yufan-shi/">Yufan Shi</a></li>
 </ul>
 
 ### Languages and Tools
