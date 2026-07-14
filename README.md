@@ -32,3 +32,11 @@ I’m interested in exploring AI Agents, Self-Evolving Agents, Agent Harness Eng
 <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" alt="Linux" title="Linux"/></a>
 
 </div>
+
+### And One More Thing...
+
+#### Introducing My Cat 🐈
+
+<img src="./cat.JPG" width="260" alt="Peter's cat" />
+
+Meet **Yakult**, my loyal companion and occasional coding supervisor.
