@@ -10,7 +10,7 @@ M.S. Student in Electrical and Computer Engineering @ UC San Diego
 Former Apps Development Intern @ Microsoft, working on an AI-native autonomous deployment agent system
 <br><br>
 
-<img src="./baai.svg" height="40" alt="Microsoft" />
+<img src="./baai.svg" height="80" alt="BAAI" />
 Incoming AI Engineer Intern @ BAAI, working on AI4Sys
 <br><br>
 
