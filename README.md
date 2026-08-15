@@ -11,7 +11,7 @@ Former Apps Development Intern @ Microsoft, working on an AI-native autonomous d
 <br><br>
 
 <img src="./baai.png" height="40" alt="BAAI" />
-Incoming AI Engineer Intern @ BAAI, working on AI4Sys
+Open Source Contributor of BAAI, working on FlagGems
 <br><br>
 
 I’m interested in exploring AI Agents, Self-Evolving Agents, Agent Harness Engineering, and Multimodal LLMs.
