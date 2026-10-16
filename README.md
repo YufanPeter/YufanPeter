@@ -7,17 +7,13 @@ M.S. Student in Electrical and Computer Engineering @ UC San Diego
 <br><br>
 
 <img src="./Microsoft.svg" height="40" alt="Microsoft" />
-Former Apps Development Intern @ Microsoft, working on an AI-native autonomous deployment agent system
-<br><br>
-
-<img src="./baai.png" height="40" alt="BAAI" />
-Open Source Contributor of BAAI, working on FlagGems
+Former SWE Intern @ Microsoft, working on an AI-native autonomous deployment agent system and Agentic Readiness Benchmark.
 <br><br>
 
 I’m interested in exploring AI Agents, Self-Evolving Agents, Agent Harness Engineering, and Multimodal LLMs.
 
 <ul>
-  <li>🧑‍💻 Currently working on: AI Applications and AI4Sys</li>
+  <li>🧑‍💻 Currently working on: AI Applications and Agent Serving </li>
   <li>🕵️ Currently learning: Reinforcement Learning and Agentic AI</li>
   <li>✉️ Email: <a href="mailto:peteryufan28@gmail.com">peteryufan28@gmail.com</a></li>
   <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/yufan-shi/">Yufan Shi</a></li>
